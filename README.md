@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Nodejs**
 
-- 💬 Ask me about **react, sass, nodejs**
+- 💬 Ask me about **React, Sass, Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
